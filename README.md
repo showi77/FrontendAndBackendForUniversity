@@ -10,5 +10,5 @@ FrontendAndBackendForUniversity/
 └──secondFile.html
 ```
 5. использованыые технолгии - git, GitHub, visual studio code
-6. https://showi77.github.io/FrontendAndBackendForUniversity/
+6. showi77.github.io/kr1-html-css-shop/
 7. Хуснуматин Вячеслав Ильдарович ЭФБО-07-25
